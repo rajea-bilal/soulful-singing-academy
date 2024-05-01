@@ -1,0 +1,104 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Voice Fundamentals",
+        "slug": "voice-fundamentals",
+        "description": "Master the basics of using your voice as a versatile instrument for creating beautiful nasheeds. Learn vocal modulation, harmonization, and rhythm techniques.",
+        "price": 99.99,
+        "instructor": "Ahmed Ali",
+        "isFeatured": true,
+        "image": "https://images.pexels.com/photos/3783471/pexels-photo-3783471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+      },
+      {
+        "id": 2,
+        "title": "Percussion Techniques",
+        "slug": "percussion-techniques",
+        "description": "Explore percussive techniques such as beatboxing and body percussion to add rhythmic elements and depth to your nasheeds.",
+        "price": 109.99,
+        "instructor": "Aamir Khan",
+        "isFeatured": false,
+        "image": "https://images.pexels.com/photos/6193723/pexels-photo-6193723.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+      },
+      {
+        "id": 3,
+        "title": "Advanced Vocal Modulation",
+        "slug": "advanced-vocal-modulation",
+        "description": "Enhance your nasheed performances with advanced techniques in vocal modulation, including pitch control and timbre variation.",
+        "price": 119.99,
+        "instructor": "Youssef Mahmoud",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1577917781836-271a246aa6ba?q=80&w=2402&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
+      },
+      {
+        "id": 4,
+        "title": "Rhythmic Harmony",
+        "slug": "rhythmic-harmony",
+        "description": "Learn to create captivating rhythmic harmonies in your nasheeds, blending vocal melodies with percussive elements seamlessly.",
+        "price": 129.99,
+        "instructor": "Aisha Rahman",
+        "isFeatured": false,
+        "image": "https://plus.unsplash.com/premium_photo-1681053902020-f5c25e1634c9?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 5,
+        "title": "Nasheed Composition Essentials",
+        "slug": "nasheed-composition-essentials",
+        "description": "Discover the essentials of composing nasheeds, from lyric writing to melody construction, to express your devotion creatively.",
+        "price": 139.99,
+        "instructor": "Khalid Ibrahim",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1598520058913-745d0a55859a?q=80&w=2312&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 6,
+        "title": "Recording and Production Techniques",
+        "slug": "recording-and-production-techniques",
+        "description": "Learn how to record and produce high-quality nasheeds using basic recording equipment and software.",
+        "price": 149.99,
+        "instructor": "Sara Abbas",
+        "isFeatured": true,
+        "image": "https://plus.unsplash.com/premium_photo-1682462808116-7b1654209808?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 7,
+        "title": "Performance and Stage Presence",
+        "slug": "performance-and-stage-presence",
+        "description": "Develop confidence and stage presence as a nasheed artist, mastering performance techniques for live and recorded settings.",
+        "price": 159.99,
+        "instructor": "Omar Khalifa",
+        "isFeatured": false,
+        "image": "https://samiyusufofficial.com/wp-content/uploads/2019/02/samiyusuf-india-concert011.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Islamic Music History",
+        "slug": "islamic-music-history",
+        "description": "Explore the rich history of Islamic music and nasheeds, tracing their origins and evolution through different cultures and eras.",
+        "price": 169.99,
+        "instructor": "Huda Hassan",
+        "isFeatured": true,
+        "image": "https://plus.unsplash.com/premium_photo-1678799032537-8903abfa5b91?q=80&w=2370&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 9,
+        "title": "Nasheed Marketing and Promotion",
+        "slug": "nasheed-marketing-and-promotion",
+        "description": "Learn effective strategies for marketing and promoting your nasheeds to reach a wider audience and build your fan base.",
+        "price": 179.99,
+        "instructor": "Aliya Mansoor",
+        "isFeatured": false,
+        "image": "https://samiyusufofficial.com/wp-content/uploads/2019/02/samiyusuf-india-concert007.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Spirituality in Nasheed Artistry",
+        "slug": "spirituality-in-nasheed-artistry",
+        "description": "Deepen your understanding of the spiritual significance of nasheed artistry and its role in Islamic culture and worship.",
+        "price": 189.99,
+        "instructor": "Yusuf Patel",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1627384205300-0849e5faec64?q=80&w=2532&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  }

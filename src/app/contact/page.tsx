@@ -1,5 +1,5 @@
 "use client"
-import React from 'react'
+
 import { SparklesCore } from '@/components/ui/sparkles'
 import { Button } from "@/components/ui/moving-border";
 import Link from "next/link"
@@ -9,7 +9,7 @@ const page = () => {
     <div className="min-h-screen bg-black py-12 pt-48 
     text-center">
       <h1 className="text-4xl md:text-6xl font-bold mb-2 text-orange-50">Contact us</h1>
-    <p className="mt-6 mb-10 text-sm md:text-lg text-neutral-400 max-w-sm sm:max-w-lg mx-auto">We're here to help with any questions about our courses, programs, or events. Please feel free to reach out and let us know how we can assist you in your nasheed journey.</p>
+    <p className="mt-6 mb-10 text-sm md:text-lg text-neutral-400 max-w-sm sm:max-w-lg mx-auto">We&apos;re here to help with any questions about our courses, programs, or events. Please feel free to reach out and let us know how we can assist you in your nasheed journey.</p>
 
     
      

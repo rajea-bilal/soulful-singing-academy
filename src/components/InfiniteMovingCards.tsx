@@ -51,7 +51,7 @@ export function TestimonialsDemo() {
       <p className="text-3xl mt-2 text-stone-400 font-extrabold tracking-tight leading-8 sm:text-4xl text-center">Voices of success</p>
 
       <div className="flex justify-center w-full mt-20 sm:px-6">
-        <div className="w-full overflow-hidden max-w-8xl">
+        <div className="w-full overflow-hidden max-w-7xl">
             <InfiniteMovingCards
               items={testimonials}
               direction="right"

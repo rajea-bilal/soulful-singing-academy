@@ -56,7 +56,7 @@ const Footer = () => {
         </div>
       </div>
 
-  <p className="text-center pt-10 pb-6 text-xs text-stone-400 font-semibold">&copy; 2024 Nasheed School. All rights reserved. Developed by <a href="http://rajea-bilal.netlify.com" target="_blank" className="text-neutral-600">Rajea Bilal</a> with care.</p>
+  <p className="text-center pt-10 pb-6 text-xs text-stone-400 font-semibold">&copy; 2024 Nasheed School. All rights reserved. Developed by <a href="https://rajea-bilal.netlify.app" target="_blank" className="text-neutral-600">Rajea Bilal</a> with care.</p>
 
     </footer>
   )

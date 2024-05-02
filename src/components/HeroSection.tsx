@@ -13,9 +13,9 @@ const HeroSection = () => {
 
           {/* main heading container */}
           <div className="p-4 relative z-10 w-full mt-28 text-center">
-            <h1 className="mt-24 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-400">Master the art of Nasheeds</h1>
+            <h1 className="mt-24 md:mt-0 px-2 text-5xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-200 to-neutral-400">Master the art of Nasheeds</h1>
             
-            <p className="mt-6 px-4 font-normal text-base md:text-lg md:w-[35rem] text-neutral-400 lg:w-[45rem] mx-auto w-[20rem] sm:w-[25rem]">Dive into our comprehensive nasheed courses and transform your musical journey today. Whether you&apos;re a beginner or looking to refine your skills in the art of <b>devotional singing</b>, join us to unlock your true potential.</p>
+            <p className="mt-10 px-4 font-normal text-md md:text-lg md:w-[35rem] text-neutral-400 lg:w-[45rem] mx-auto w-[23rem] sm:w-[25rem]">Dive into our comprehensive nasheed courses and transform your musical journey today. Whether you&apos;re a beginner or looking to refine your skills in the art of <b>devotional singing</b>, join us to unlock your true potential.</p>
 
               {/* button */}
               <div className="mt-16">
